@@ -1,4 +1,4 @@
-export const userData = {
+export default {
   names: {
     Fname: "John",
     Lname: "Doe",
